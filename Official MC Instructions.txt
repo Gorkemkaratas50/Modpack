@@ -1,0 +1,25 @@
+Step 1
+Download and launch Overwolf.
+Step 2
+Download and launch Curseforge through Overwolf.
+Step 3
+Go to the uper right hand corner of Curseforge, and click 'Create Custom Profile'.
+Step 4
+Title it, choose version 1.12.2 and the newest version of the Curseforge Launcher.
+Step 5
+Open the custom profile, click the three dots by play, and click open folder.
+Step 6
+open the mods folder, and place all of the mods in this folders mods folder into the Curseforge mod folder.
+Step 7
+Launch the Game
+Step 8
+Open a single player world
+Step 9
+Open the menu, select options-Recorce packs-Open folder.
+Step 10
+Place the recorce packs from this folders recorce packs, into the MC recorce packs folder.
+Step 11
+Select the play button on all 3 recorce packs, so they move to the right side. (Note: One of the packs will give a warning message that it's meant for newer versions of MC. Click OK,
+and it will function fine).
+Step 12
+Close the Menu, and you should be ready to play.
